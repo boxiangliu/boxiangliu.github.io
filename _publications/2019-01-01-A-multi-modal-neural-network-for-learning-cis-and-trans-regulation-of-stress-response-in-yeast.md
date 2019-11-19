@@ -1,7 +1,7 @@
 ---
 title: "A multi-modal neural network for learning cis and trans regulation of stress response in yeast"
 collection: publications
-permalink: /publication/2019-01-01-A-multi-modal-neural-network-for-learning-cis-and-trans-regulation-of-stress-response-in-yeast
+permalink: /publications/2019-01-01-A-multi-modal-neural-network-for-learning-cis-and-trans-regulation-of-stress-response-in-yeast
 date: 2019-01-01
 venue: 'arXiv preprint arXiv:1908.09426'
 paperurl: 'https://arxiv.org/abs/1908.09426'

@@ -1,7 +1,7 @@
 ---
 title: "Application of the molecular combing technique to starch granules"
 collection: publications
-permalink: /publication/2009-01-01-Application-of-the-molecular-combing-technique-to-starch-granules
+permalink: /publications/2009-01-01-Application-of-the-molecular-combing-technique-to-starch-granules
 date: 2009-01-01
 venue: 'Molecules'
 paperurl: 'https://www.mdpi.com/1420-3049/14/10/4079'

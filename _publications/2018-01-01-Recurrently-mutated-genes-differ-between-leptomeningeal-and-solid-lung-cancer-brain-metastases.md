@@ -1,7 +1,7 @@
 ---
 title: "Recurrently mutated genes differ between leptomeningeal and solid lung cancer brain metastases"
 collection: publications
-permalink: /publication/2018-01-01-Recurrently-mutated-genes-differ-between-leptomeningeal-and-solid-lung-cancer-brain-metastases
+permalink: /publications/2018-01-01-Recurrently-mutated-genes-differ-between-leptomeningeal-and-solid-lung-cancer-brain-metastases
 date: 2018-01-01
 venue: 'Journal of Thoracic Oncology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1556086418302223'

@@ -1,7 +1,7 @@
 ---
 title: "Widespread dose-dependent effects of RNA expression and splicing on complex diseases and traits"
 collection: publications
-permalink: /publication/2019-01-01-Widespread-dose-dependent-effects-of-RNA-expression-and-splicing-on-complex-diseases-and-traits
+permalink: /publications/2019-01-01-Widespread-dose-dependent-effects-of-RNA-expression-and-splicing-on-complex-diseases-and-traits
 date: 2019-01-01
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/814350v1.abstract'

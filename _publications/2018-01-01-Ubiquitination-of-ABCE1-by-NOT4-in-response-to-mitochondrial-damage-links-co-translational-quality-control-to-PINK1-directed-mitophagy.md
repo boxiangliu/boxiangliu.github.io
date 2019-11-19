@@ -1,7 +1,7 @@
 ---
 title: "Ubiquitination of ABCE1 by NOT4 in response to mitochondrial damage links co-translational quality control to PINK1-directed mitophagy"
 collection: publications
-permalink: /publication/2018-01-01-Ubiquitination-of-ABCE1-by-NOT4-in-response-to-mitochondrial-damage-links-co-translational-quality-control-to-PINK1-directed-mitophagy
+permalink: /publications/2018-01-01-Ubiquitination-of-ABCE1-by-NOT4-in-response-to-mitochondrial-damage-links-co-translational-quality-control-to-PINK1-directed-mitophagy
 date: 2018-01-01
 venue: 'Cell metabolism'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1550413118303140'

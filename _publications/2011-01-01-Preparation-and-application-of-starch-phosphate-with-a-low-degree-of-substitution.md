@@ -1,7 +1,7 @@
 ---
 title: "Preparation and application of starch phosphate with a low degree of substitution"
 collection: publications
-permalink: /publication/2011-01-01-Preparation-and-application-of-starch-phosphate-with-a-low-degree-of-substitution
+permalink: /publications/2011-01-01-Preparation-and-application-of-starch-phosphate-with-a-low-degree-of-substitution
 date: 2011-01-01
 venue: 'Phosphorus, Sulfur, and Silicon and the Related Elements'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10426507.2010.537714'

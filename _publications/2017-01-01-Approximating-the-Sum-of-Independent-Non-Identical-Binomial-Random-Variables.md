@@ -1,7 +1,7 @@
 ---
 title: "Approximating the Sum of Independent Non-Identical Binomial Random Variables"
 collection: publications
-permalink: /publication/2017-01-01-Approximating-the-Sum-of-Independent-Non-Identical-Binomial-Random-Variables
+permalink: /publications/2017-01-01-Approximating-the-Sum-of-Independent-Non-Identical-Binomial-Random-Variables
 date: 2017-01-01
 venue: 'arXiv preprint arXiv:1712.01410'
 paperurl: 'https://arxiv.org/abs/1712.01410'

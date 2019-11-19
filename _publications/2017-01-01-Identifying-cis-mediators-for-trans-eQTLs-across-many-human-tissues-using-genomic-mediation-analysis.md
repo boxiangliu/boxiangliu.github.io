@@ -1,7 +1,7 @@
 ---
 title: "Identifying cis-mediators for trans-eQTLs across many human tissues using genomic mediation analysis"
 collection: publications
-permalink: /publication/2017-01-01-Identifying-cis-mediators-for-trans-eQTLs-across-many-human-tissues-using-genomic-mediation-analysis
+permalink: /publications/2017-01-01-Identifying-cis-mediators-for-trans-eQTLs-across-many-human-tissues-using-genomic-mediation-analysis
 date: 2017-01-01
 venue: 'Genome research'
 paperurl: 'http://genome.cshlp.org/content/27/11/1859.short'

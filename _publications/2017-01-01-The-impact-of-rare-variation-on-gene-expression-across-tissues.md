@@ -1,7 +1,7 @@
 ---
 title: "The impact of rare variation on gene expression across tissues"
 collection: publications
-permalink: /publication/2017-01-01-The-impact-of-rare-variation-on-gene-expression-across-tissues
+permalink: /publications/2017-01-01-The-impact-of-rare-variation-on-gene-expression-across-tissues
 date: 2017-01-01
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/nature24267?draft=marketing'

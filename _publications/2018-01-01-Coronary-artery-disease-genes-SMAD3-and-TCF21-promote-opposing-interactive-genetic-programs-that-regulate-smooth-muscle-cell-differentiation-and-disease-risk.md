@@ -1,7 +1,7 @@
 ---
 title: "Coronary artery disease genes SMAD3 and TCF21 promote opposing interactive genetic programs that regulate smooth muscle cell differentiation and disease risk"
 collection: publications
-permalink: /publication/2018-01-01-Coronary-artery-disease-genes-SMAD3-and-TCF21-promote-opposing-interactive-genetic-programs-that-regulate-smooth-muscle-cell-differentiation-and-disease-risk
+permalink: /publications/2018-01-01-Coronary-artery-disease-genes-SMAD3-and-TCF21-promote-opposing-interactive-genetic-programs-that-regulate-smooth-muscle-cell-differentiation-and-disease-risk
 date: 2018-01-01
 venue: 'PLoS genetics'
 paperurl: 'https://journals.plos.org/plosgenetics/article?rev=1&id=10.1371/journal.pgen.1007681'

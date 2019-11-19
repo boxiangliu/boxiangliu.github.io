@@ -1,7 +1,7 @@
 ---
 title: "Atheroprotective roles of smooth muscle cell phenotypic modulation and the TCF21 disease gene as revealed by single-cell analysis"
 collection: publications
-permalink: /publication/2019-01-01-Atheroprotective-roles-of-smooth-muscle-cell-phenotypic-modulation-and-the-TCF21-disease-gene-as-revealed-by-single-cell-analysis
+permalink: /publications/2019-01-01-Atheroprotective-roles-of-smooth-muscle-cell-phenotypic-modulation-and-the-TCF21-disease-gene-as-revealed-by-single-cell-analysis
 date: 2019-01-01
 venue: 'Nature medicine'
 paperurl: 'https://www.nature.com/articles/s41591-019-0512-5'

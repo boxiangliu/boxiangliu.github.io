@@ -1,7 +1,7 @@
 ---
 title: "The impact of structural variation on human gene expression"
 collection: publications
-permalink: /publication/2017-01-01-The-impact-of-structural-variation-on-human-gene-expression
+permalink: /publications/2017-01-01-The-impact-of-structural-variation-on-human-gene-expression
 date: 2017-01-01
 venue: 'Nature genetics'
 paperurl: 'https://www.nature.com/ng/journal/v49/n5/abs/ng.3834.html'

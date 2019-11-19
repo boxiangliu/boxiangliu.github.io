@@ -1,7 +1,7 @@
 ---
 title: "Estimating the causal tissues for complex traits and diseases"
 collection: publications
-permalink: /publication/2017-01-01-Estimating-the-causal-tissues-for-complex-traits-and-diseases
+permalink: /publications/2017-01-01-Estimating-the-causal-tissues-for-complex-traits-and-diseases
 date: 2017-01-01
 venue: 'Nature genetics'
 paperurl: 'https://www.nature.com/ng/journal/v49/n12/abs/ng.3981.html'

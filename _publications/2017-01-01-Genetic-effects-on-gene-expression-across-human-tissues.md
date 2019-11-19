@@ -1,7 +1,7 @@
 ---
 title: "Genetic effects on gene expression across human tissues"
 collection: publications
-permalink: /publication/2017-01-01-Genetic-effects-on-gene-expression-across-human-tissues
+permalink: /publications/2017-01-01-Genetic-effects-on-gene-expression-across-human-tissues
 date: 2017-01-01
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/nature24277'

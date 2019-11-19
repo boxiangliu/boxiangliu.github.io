@@ -1,7 +1,7 @@
 ---
 title: "Scanning probe acoustic microscopy of extruded starch materials: Direct visual evidence of starch crystal"
 collection: publications
-permalink: /publication/2013-01-01-Scanning-probe-acoustic-microscopy-of-extruded-starch-materials-Direct-visual-evidence-of-starch-crystal
+permalink: /publications/2013-01-01-Scanning-probe-acoustic-microscopy-of-extruded-starch-materials-Direct-visual-evidence-of-starch-crystal
 date: 2013-01-01
 venue: 'Carbohydrate polymers'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0144861713005043'

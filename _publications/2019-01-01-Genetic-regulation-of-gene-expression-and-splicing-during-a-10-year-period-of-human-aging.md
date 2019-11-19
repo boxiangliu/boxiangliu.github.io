@@ -1,7 +1,7 @@
 ---
 title: "Genetic regulation of gene expression and splicing during a 10-year period of human aging"
 collection: publications
-permalink: /publication/2019-01-01-Genetic-regulation-of-gene-expression-and-splicing-during-a-10-year-period-of-human-aging
+permalink: /publications/2019-01-01-Genetic-regulation-of-gene-expression-and-splicing-during-a-10-year-period-of-human-aging
 date: 2019-01-01
 venue: 'Genome biology'
 paperurl: 'https://link.springer.com/article/10.1186/s13059-019-1840-y'

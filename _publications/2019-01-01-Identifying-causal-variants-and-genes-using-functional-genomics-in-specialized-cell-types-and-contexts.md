@@ -1,7 +1,7 @@
 ---
 title: "Identifying causal variants and genes using functional genomics in specialized cell types and contexts"
 collection: publications
-permalink: /publication/2019-01-01-Identifying-causal-variants-and-genes-using-functional-genomics-in-specialized-cell-types-and-contexts
+permalink: /publications/2019-01-01-Identifying-causal-variants-and-genes-using-functional-genomics-in-specialized-cell-types-and-contexts
 date: 2019-01-01
 venue: 'Human genetics'
 paperurl: 'https://link.springer.com/article/10.1007/s00439-019-02044-2'

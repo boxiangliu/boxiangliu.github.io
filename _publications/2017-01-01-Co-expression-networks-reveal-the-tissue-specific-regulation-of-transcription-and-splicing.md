@@ -1,7 +1,7 @@
 ---
 title: "Co-expression networks reveal the tissue-specific regulation of transcription and splicing"
 collection: publications
-permalink: /publication/2017-01-01-Co-expression-networks-reveal-the-tissue-specific-regulation-of-transcription-and-splicing
+permalink: /publications/2017-01-01-Co-expression-networks-reveal-the-tissue-specific-regulation-of-transcription-and-splicing
 date: 2017-01-01
 venue: 'Genome research'
 paperurl: 'http://genome.cshlp.org/content/27/11/1843.short'

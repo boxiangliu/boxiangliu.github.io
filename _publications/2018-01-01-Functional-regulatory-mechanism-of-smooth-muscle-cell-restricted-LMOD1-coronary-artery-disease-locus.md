@@ -1,7 +1,7 @@
 ---
 title: "Functional regulatory mechanism of smooth muscle cell-restricted LMOD1 coronary artery disease locus"
 collection: publications
-permalink: /publication/2018-01-01-Functional-regulatory-mechanism-of-smooth-muscle-cell-restricted-LMOD1-coronary-artery-disease-locus
+permalink: /publications/2018-01-01-Functional-regulatory-mechanism-of-smooth-muscle-cell-restricted-LMOD1-coronary-artery-disease-locus
 date: 2018-01-01
 venue: 'PLoS genetics'
 paperurl: 'https://journals.plos.org/plosgenetics/article?rev=1&id=10.1371/journal.pgen.1007755'

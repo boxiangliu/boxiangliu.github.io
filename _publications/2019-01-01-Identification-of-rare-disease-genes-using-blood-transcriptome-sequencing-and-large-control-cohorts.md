@@ -1,7 +1,7 @@
 ---
 title: "Identification of rare-disease genes using blood transcriptome sequencing and large control cohorts"
 collection: publications
-permalink: /publication/2019-01-01-Identification-of-rare-disease-genes-using-blood-transcriptome-sequencing-and-large-control-cohorts
+permalink: /publications/2019-01-01-Identification-of-rare-disease-genes-using-blood-transcriptome-sequencing-and-large-control-cohorts
 date: 2019-01-01
 venue: 'Nature medicine'
 paperurl: 'https://www.nature.com/articles/s41591-019-0457-8'

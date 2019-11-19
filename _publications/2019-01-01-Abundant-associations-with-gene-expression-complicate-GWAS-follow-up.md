@@ -1,7 +1,7 @@
 ---
 title: "Abundant associations with gene expression complicate GWAS follow-up"
 collection: publications
-permalink: /publication/2019-01-01-Abundant-associations-with-gene-expression-complicate-GWAS-follow-up
+permalink: /publications/2019-01-01-Abundant-associations-with-gene-expression-complicate-GWAS-follow-up
 date: 2019-01-01
 venue: 'Nature genetics'
 paperurl: 'https://www.nature.com/articles/s41588-019-0404-0'

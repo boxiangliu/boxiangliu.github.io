@@ -1,7 +1,7 @@
 ---
 title: "Genetic regulatory mechanisms of smooth muscle cells map to coronary artery disease risk loci"
 collection: publications
-permalink: /publication/2018-01-01-Genetic-regulatory-mechanisms-of-smooth-muscle-cells-map-to-coronary-artery-disease-risk-loci
+permalink: /publications/2018-01-01-Genetic-regulatory-mechanisms-of-smooth-muscle-cells-map-to-coronary-artery-disease-risk-loci
 date: 2018-01-01
 venue: 'The American Journal of Human Genetics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0002929718302672'

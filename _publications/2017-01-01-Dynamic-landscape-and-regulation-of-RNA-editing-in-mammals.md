@@ -1,7 +1,7 @@
 ---
 title: "Dynamic landscape and regulation of RNA editing in mammals"
 collection: publications
-permalink: /publication/2017-01-01-Dynamic-landscape-and-regulation-of-RNA-editing-in-mammals
+permalink: /publications/2017-01-01-Dynamic-landscape-and-regulation-of-RNA-editing-in-mammals
 date: 2017-01-01
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/nature24041?draft=collection'

@@ -1,7 +1,7 @@
 ---
 title: "A graphical introduction to special relativity based on a modern approach to Minkowski diagrams"
 collection: publications
-permalink: /publication/2015-01-01-A-graphical-introduction-to-special-relativity-based-on-a-modern-approach-to-Minkowski-diagrams
+permalink: /publications/2015-01-01-A-graphical-introduction-to-special-relativity-based-on-a-modern-approach-to-Minkowski-diagrams
 date: 2015-01-01
 venue: 'arXiv preprint arXiv:1508.01968'
 paperurl: 'https://arxiv.org/abs/1508.01968'

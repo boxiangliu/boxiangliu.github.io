@@ -1,7 +1,7 @@
 ---
 title: "TCF21 and the environmental sensor aryl-hydrocarbon receptor cooperate to activate a pro-inflammatory gene expression program in coronary artery smooth muscle cells"
 collection: publications
-permalink: /publication/2017-01-01-TCF21-and-the-environmental-sensor-aryl-hydrocarbon-receptor-cooperate-to-activate-a-pro-inflammatory-gene-expression-program-in-coronary-artery-smooth-muscle-cells
+permalink: /publications/2017-01-01-TCF21-and-the-environmental-sensor-aryl-hydrocarbon-receptor-cooperate-to-activate-a-pro-inflammatory-gene-expression-program-in-coronary-artery-smooth-muscle-cells
 date: 2017-01-01
 venue: 'PLoS genetics'
 paperurl: 'https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006750&rev=2'

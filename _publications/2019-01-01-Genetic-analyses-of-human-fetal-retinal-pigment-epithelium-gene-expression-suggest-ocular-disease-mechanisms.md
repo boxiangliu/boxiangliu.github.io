@@ -1,7 +1,7 @@
 ---
 title: "Genetic analyses of human fetal retinal pigment epithelium gene expression suggest ocular disease mechanisms"
 collection: publications
-permalink: /publication/2019-01-01-Genetic-analyses-of-human-fetal-retinal-pigment-epithelium-gene-expression-suggest-ocular-disease-mechanisms
+permalink: /publications/2019-01-01-Genetic-analyses-of-human-fetal-retinal-pigment-epithelium-gene-expression-suggest-ocular-disease-mechanisms
 date: 2019-01-01
 venue: 'Communications biology'
 paperurl: 'https://www.nature.com/articles/s42003-019-0430-6'
