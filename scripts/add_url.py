@@ -1,18 +1,42 @@
 #!/usr/bin/env python
-# Find the URL of a list of publications given in BibTex format.
-
+# Add URLs for a list of publications given in BibTex format.
+import os
 import sys
 import bibtexparser
 import scholarly
+import argparse
 
-stdin = sys.stdin.read()
-bib = bibtexparser.loads(stdin)
+parser = argparse.ArgumentParser(description='Add URLs for a list of "\
+	"publications provided in BibTex format.')
+parser.add_argument('--bib', type=str, help='The BibTex file.')
+args = parser.parse_args()
 
-for entry in bib.entries[:2]:
-	title = entry["title"]
-	print("Searching URL for {}".format(title), flush=True)
-	query = list(scholarly.search_pubs_query(title))[0]
-	entry["url"] = query.bib["url"]
+bib_bak = args.bib + ".bak"
+os.rename(args.bib, bib_bak)
 
-bib_str = bibtexparser.dumps(bib)
-sys.stdout.write(bib_str)
+with open(bib_bak, "r") as f:
+	bib = bibtexparser.load(f)
+
+try:
+	n = 0
+	for entry in bib.entries:
+		title = entry["title"]
+		if "url" not in entry or "abstract" not in entry:
+			print("Searching for {}".format(title), flush=True)
+			query = list(scholarly.search_pubs_query(title))[0]
+			entry["url"] = query.bib["url"]
+			entry["abstract"] = query.bib["abstract"]
+			n += 1
+		else:
+			print("{} already has an URL and an abstract.".\
+				format(title), flush=True)
+
+	print("Added URLs for {} articles".format(n))
+
+	with open(args.bib, "w") as f:
+		bibtexparser.dump(bib, f)
+
+	os.remove(bib_bak)
+
+except:
+	os.rename(bib_bak, args.bib)
