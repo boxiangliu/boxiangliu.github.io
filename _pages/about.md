@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, I'm Boxiang, a research scientist at [Baidu Research Institute](http://research.baidu.com/Index). I am a computational biologist and a statistician by training, with a deep interest in the intersection between genetics, medicine and machine learning. My research investigates the genetic underpinnings of complex diseases. Most of my work have focused on coronary artery disease, the No. 1 killer of US adults, and on age-related macular degeneration, the leading cause of blindness in adults > 50 years of age. To pick out key genes that influence the risk of these diseases among the vast number of genes in the human genome, I developed methods to prioritze and visualize signals from [genetic associations studies](https://en.wikipedia.org/wiki/Genetic_association). Selected areas of my research include:
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+How does genetic variants influence the risk of complex human diseases?
+----
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+An individual's risk towards complex diseases is influenced by his/her genetic makeup. A notable example is that certain mutations in the *BRCA* genes greatly increase women's susceptibility towards breast cancer. Thus far, we understand little about the underlying mechanisms for all but a handful of risk variants. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+The quest for disease mechanisms requires a fundamental understanding of genetic regulation in humans. I am a avid contributor to the Genome-Type Tissue Expression project [[GTEx Consortium 2017](https://www.nature.com/articles/nature24277)], aimed at identifying genetic effects on gene expression across many human tissues. Knowing genetic regulation in a health population is not enough. To understand a particular disease, we need to sample tissue types and even cell types specific to the pathological microenvironment (see review by [Liu and Montgomery 2019](https://link.springer.com/article/10.1007%2Fs00439-019-02044-2)).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Using data from [genome-wide association studies](https://en.wikipedia.org/wiki/Genome-wide_association_study) and [expression quantitative trait loci](https://en.wikipedia.org/wiki/Expression_quantitative_trait_loci), I built statistical models to jointly infer the causal variants and the effector gene. My work have uncovered key risk genes for coronary artery disease [[Liu et al 2018](https://www.cell.com/ajhg/fulltext/S0002-9297%2818%2930267-2)] and age-related macular degeneration [[Liu et al 2019](https://www.nature.com/articles/s42003-019-0430-6)].
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Which genetic mutations drive cancer? Can we use these mutations as diagnostic biomarkers? 
+----
+Certain somatic mutations occurs frequently in given types of cancers. We estimate the frequency of each somatic coding mutation using whole-exome data from patient cohorts. We correlate them with gold-standard clinical diagnosis with the goal of identifying diagnostic biomarkers to enhance the diagnostic toolkit. In collaboration with with [the Gephart lab](http://www.gephartlab.com/), we study the recurrent mutations in leptomeningeal carcinomatosis. [example](https://www.biorxiv.org/content/early/2017/11/20/222349).
+ 
+Can we model complex gene regulatory relationship with deep neural networks? What novel regulatory patterns can we extract from these networks? 
+----
+Genetic regulation involves nonlinear interactions between transcription factor molecules (trans-effects) and DNA sequences (cis-effects). Such interactions are often governed by the interplay by multiple molecule (think epistasis). The combinatorial complexity in these systems are difficult to capture using hand-engineered networks. In collaboration with [Kundaje lab](https://sites.google.com/site/anshulkundaje/), we use a data-driven approach to model regulatory networks using deep neural networks. Further, we try to extract novel regulatory relationship using *in silico* perturbation and backpropagation-based approaches. [example](http://stanford.edu/~bliu2/pubs/multi-modal-neural.pdf).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+To answer these questions, I developed several statistical tools such as [sinib](https://github.com/boxiangliu/sinib) and [VSEA](https://github.com/boxiangliu/vsea), as well as visualization tools such as [manhattan](https://github.com/boxiangliu/manhattan) and locuscompare. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Previously, I obtained a Master degree in Statistics from Stanford. Before that, I studied Biology and Physics at Illinois Wesleyan University. I had a great time working with [Thushara Perera](http://sun.iwu.edu/~tperera/research.html) on [biopotential measurement device](https://digitalcommons.iwu.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=2888&context=jwprc), and on [special relativity](https://arxiv.org/abs/1508.01968). I also enjoyed working with [Gabe Spalding](http://sun.iwu.edu/~gspaldin/Site/Overview.html) on building a [confocal microsope](https://digitalcommons.iwu.edu/jwprc/2012/posters2/11/) and [optical tweezers](https://digitalcommons.iwu.edu/jwprc/2013/posters2/21/).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+I maintain active collaborations with several PIs. Some of them are:
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- [Douglas Vollrath](http://vollrathlab.stanford.edu/), Stanford University
+- [Audrey Fu](http://webpages.uidaho.edu/audreyf/), University of Idaho
+- [Anshul Kundaje](https://sites.google.com/site/anshulkundaje/), Stanford University
