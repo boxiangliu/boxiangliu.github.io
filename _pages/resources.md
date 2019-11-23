@@ -1,11 +1,7 @@
 ---
-permalink: /
-title: "About"
-excerpt: "About me"
+permalink: /resources
+title: "Resources"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Hello, I'm Boxiang, a research scientist at [Baidu Research Institute](http://research.baidu.com/Index). I am a computational biologist and a statistician by training, with a deep interest in the intersection between genetics, medicine and machine learning. My research investigates the genetic underpinnings of complex diseases. Most of my work have focused on coronary artery disease, the No. 1 killer of US adults, and on age-related macular degeneration, the leading cause of blindness in adults > 50 years of age. To pick out key genes that influence the risk of these diseases among the vast number of genes in the human genome, I developed methods to prioritze and visualize signals from [genetic associations studies](https://en.wikipedia.org/wiki/Genetic_association). Selected areas of my research include:
