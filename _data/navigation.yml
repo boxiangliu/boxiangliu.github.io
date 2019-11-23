@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research"
     url: /research/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/ 
@@ -12,5 +12,5 @@ main:
   - title: "Resources"
     url: /resources/    
     
-  - title: "Misc"
-    url: /misc/
+  - title: "Work with us"
+    url: /work-with-us/
