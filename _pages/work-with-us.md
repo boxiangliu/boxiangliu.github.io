@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /work-with-us
+permalink: /work-with-us/
 title: "Work with us"
 author_profile: true
 redirect_from: 
