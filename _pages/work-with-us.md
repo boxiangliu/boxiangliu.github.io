@@ -19,7 +19,7 @@ Please see [here](http://usa.baidu.com/careers/) for a list of open positions. W
 Genenexus
 ----
 
-[Genenexus](http://www.genenexus.com/) is an early-stage Startup with a focus on genetic testing for cancer diagnostics. The company provides end-to-end solution for tumor subtyping for target therapy, in addition to services related next-generation sequencing for omic studies. 
+[Genenexus](http://www.genenexus.com/) is an early-stage startup with a focus on genetic testing for cancer diagnostics. The company provides end-to-end solution for tumor subtyping for targeted cancer therapy, in addition to providing next-generation sequencing services for omic studies. 
 
 Please see [here](http://www.genenexus.com/recruit.html) for a list of open positions. Please send your CV and position of interest to boxiang dot liu at genenexus dot com.
 

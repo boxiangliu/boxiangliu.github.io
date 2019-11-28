@@ -21,7 +21,7 @@ Tools
 **[A multi-modal neural network for learning cis and trans regulation of stress response in yeast](https://arxiv.org/abs/1908.09426)**
 - [DeepREGRET](https://github.com/boxiangliu/DeepRegret): deep learning architecture to infer gene expression based on cis- and trans-regulation. 
 
-**[Adaptive Feedback Control of Apatial Light Modulators](https://github.com/uw-loci/wavefrontRSA)**
+**[Adaptive Feedback Control of Spatial Light Modulators](https://github.com/uw-loci/wavefrontRSA)**
 - [wavefrontRSA](https://github.com/uw-loci/wavefrontRSA): Software to perform feedback control on a spatial light modulator based on images captured by two cameras.
 
 **[Imputation of single-cell gene expression with an autoencoder neural network](https://www.biorxiv.org/content/10.1101/504977v2)**
