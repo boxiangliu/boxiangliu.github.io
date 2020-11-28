@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Preprints
+## Preprints
 
 **Boxiang Liu**, Liang Huang. (2020). [NEJM-enzh: A Parallel Corpus for English-Chinese Translation in the Biomedical Domain](https://arxiv.org/abs/2005.09133). arXiv.
 
@@ -15,7 +15,7 @@ Sizhen Li, He Zhang, Liang Zhang, Kaibo Liu, **Boxiang Liu**, David H. Mathews, 
 
 Alvaro N Barbeira, Rodrigo Bonazzola, Eric R Gamazon, Yanyu Liang, YoSon Park, Sarah Kim-Hellmuth, Gao Wang, Zhuoxun Jiang, Dan Zhou, Farhad Hormozdiari, **Boxiang Liu**, Abhiram Rao, Andrew R Hamel, Milton D Pividori, François Aguet, Lisa Bastarache, Daniel M Jordan, Marie Verbanck, Ron Do, Matthew Stephens, Kristin Ardlie, Mark McCarthy, Stephen B Montgomery, Ayellet Segré, Christopher D Brown, Tuuli Lappalainen, Xiaoquan Wen, Hae Kyung Im, GTEx GWAS Working Group, GTEx Consortium. (2020). [Exploiting the GTEx resources to decipher the mechanisms at GWAS loci](https://www.biorxiv.org/content/10.1101/814350v2.abstract). bioRxiv.
 
-# 2020
+## 2020
 **Boxiang Liu**, Kaibo Liu, He Zhang, Liang Zhang, Yuchen Bian, Liang Huang. (2020). [CoV-Seq, a New Tool for SARS-CoV-2 Genome Analysis and Visualization: Development and Usability Study](https://www.jmir.org/2020/10/e22299). Journal of Medical Internet Research.
 
 
@@ -28,7 +28,7 @@ M Ryan Corces, Anna Shcherbina, Soumya Kundu, Michael J Gloudemans, Laure Frésa
 Md Bahadur Badsha\*, Rui Li\*, **Boxiang Liu\***, Yang I Li, Min Xian, Nicholas E Banovich, Audrey Qiuyan Fu. (2020). [Imputation of single-cell gene expression with an autoencoder neural network](https://link.springer.com/article/10.1007%2Fs40484-019-0192-7). Quantitative Biology. \*=equal contribution. 
 
 
-# 2019
+## 2019
 
 Balliu B, Durrant M, de Goede O, Li X, **Liu B**, Gloudemans M, Cook N, Smith K, Pala M, Cucca F, Schlessinger D, Jaiswal S, Sabatti C, Ingelsson E, Montgomery S, Lind L. (2019). [Genetic dysregulation of gene expression and splicing during a ten-year period of human aging](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1840-y). Genome Biology.
 
@@ -50,7 +50,7 @@ Wirka R, Wagh D, Paik D, Pjanic M, Nguyen T, Miller C, Kundu R, Coller J, Zhu K,
 
 
 
-# 2018
+## 2018
 
 
 Nanda V, Wang T, Iyer D, Pjanic M, **Liu B**, Nguyen T, Miano JM, Quertermous T, Leeper NJ, Miller CL. (2018). [Functional Regulatory Mechanism of Smooth Muscle Cell-Restricted LMOD1 Coronary Artery Disease Locus](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007755). PLOS Genetics.
@@ -66,7 +66,7 @@ Iyer D, Zhao Q, Pjanic M, Wirka R, Naravane A, Nguyen T, **Liu B**, Montgomery S
 Li Y\*, **Liu B\***, Connolly I\*, Pan W, Azad Tej, Montgomery S, Gephart M. [Recurrently Mutated Genes Differ between Leptomeningeal and Solid Lung Cancer Brain Metastases](https://www.jto.org/article/S1556-0864(18)30222-3/fulltext). (2018). Journal of Thoracic Oncology. \*=equal contribution.
 
 
-# 2017
+## 2017
 
 
 **Liu B**, Hussami N, Shrikumar A, Shimko T, Bhate S, Longwell S, Montgomery S and Kundaje A. (2017). [A multi-modal neural network for learning cis and trans regulation of stress response in yeast](https://arxiv.org/abs/1908.09426). NIPS – Workshop on Machine Learning in Computational Biology.
@@ -96,7 +96,7 @@ Wu Z, Wang Y, Lim J, **Liu B**, Li Y, Vartak R, Stankiewicz T, Mongomery S, and 
 **Liu B**, Shringarpure S, Gignoux C, Zhang R, Smith K, Bustamante C, Li J, Vollrath D, Montgomery S. (2016). [Ancestry Inference through Microfluidic Multiplex PCR and Sequencing](http://stanford.edu/~bliu2/pubs/ANTseq.pdf). Technical report.
 
 
-# Pre-2016
+## Pre-2016
 **Liu B**, Perera T. (2015). [A Graphical Introduction to Special Relativity Based on a Modern Approach to Minkowski Diagrams](https://arxiv.org/abs/1508.01968). arXiv.
 
 
