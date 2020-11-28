@@ -13,7 +13,7 @@ Hello, I'm Boxiang, a research scientist at [Baidu Research Institute](http://re
 Please see [Research]({{ site.baseurl }}{% link _pages/research.md %}) for my previous and current research activities and [Publication]({{ site.baseurl }}{% link _pages/publications.md %}) for examples of my work. The [Resources]({{ site.baseurl }}{% link _pages/resources.md %}) page lists software and tools and their accompanying papers. Please see [Work with us]({{ site.baseurl }}{% link _pages/work-with-us.md %}) if you are interested in joining Baidu Research Institute or Genenexus. Also feel free to reach out for collaboration or to simply chat about research! 
 
 
-## News ##
+# News
 - 2020/11: ParaMed accepted at NeurIPS [Machine Learning for Health](https://ml4health.github.io/2020/) workshop!
 - 2020/10: The CoV-Seq [webserver](covseq.baidu.com) for COVID-19 sequence analysis published on [JMIR](https://www.jmir.org/2020/10/e22299).
     - Coverage by [Sohu](https://www.sohu.com/a/390921000_260616), [QbitAI](https://www.qbitai.com/2020/05/14297.html) and [China CDC](http://www.chinacdc.cn/zxdt/202008/t20200801_218095.html).
@@ -32,7 +32,7 @@ Please see [Research]({{ site.baseurl }}{% link _pages/research.md %}) for my pr
 - 2018/09: Smooth muscle cell eQTL paper published on [American Journal of Human Genetics](https://www.sciencedirect.com/science/article/pii/S0002929718302672)!
 - 2017/10: GTEx paper published on [Nature](https://www.nature.com/articles/nature24277)!
     - The GTEx [article collection](https://www.nature.com/collections/dcfzxywzby). 
-    - Coverage by [Nature News](https://www.nature.com/articles/550190a).  
+    - Coverage by [Nature News](https://www.nature.com/articles/550190a).
 
 
 
