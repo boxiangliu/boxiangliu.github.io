@@ -14,6 +14,7 @@ Please see [Research]({{ site.baseurl }}{% link _pages/research.md %}) for my pr
 
 
 # News
+- 2020/12: LinearDesign and its application in COVID-19 vaccine design wins "[AI for Good](https://aibusiness.com/document.asp?doc_id=766053)" prize by AIconics! 
 - 2020/11: ParaMed accepted at NeurIPS [Machine Learning for Health](https://ml4health.github.io/2020/) workshop!
 - 2020/10: The CoV-Seq [webserver](covseq.baidu.com) for COVID-19 sequence analysis published on [JMIR](https://www.jmir.org/2020/10/e22299).
     - Coverage by [Sohu](https://www.sohu.com/a/390921000_260616), [QbitAI](https://www.qbitai.com/2020/05/14297.html) and [China CDC](http://www.chinacdc.cn/zxdt/202008/t20200801_218095.html).
